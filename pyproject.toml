@@ -1,0 +1,13 @@
+[project]
+name = "hirata-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=1.96.1",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "streamlit>=1.46.1",
+]
